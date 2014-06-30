@@ -12,6 +12,6 @@ Available states
 ----------------
 
 ``vim``
-  Install the ``foo`` package and enable the service.
+  Install the ``vim`` package and enable the service.
 ``vim.bar``
   Install the ``bar`` package.
